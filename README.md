@@ -30,7 +30,7 @@ A description of different files within this repository is provided below:
 
 Thanawin Rakthanmanon, Bilson Campana, Abdullah Mueen, Gustavo Batista, Brandon Westover, Qiang Zhu, Jesin Zakaria, and Eamonn Keogh. 2012. Searching and mining trillions of time series subsequences under dynamic time warping. In Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '12). Association for Computing Machinery, New York, NY, USA, 262–270. DOI:https://doi.org/10.1145/2339530.2339576
 
-- <esn.py> - implementation of twiESN from Fawaz et al 2019 
+- <esn.py> - implementation based on twiESN from Fawaz et al 2019 
 
 - <euclidean.py> - Euclidean distance for the classification of time series patterns
 
@@ -48,7 +48,7 @@ Thanawin Rakthanmanon, Bilson Campana, Abdullah Mueen, Gustavo Batista, Brandon 
 
 - <trakr_simple.py> - simple version of trakr to train and test a single sine wave 
 
-- <twiesn.py> - reused from Fawaz et al 2019
+- <twiesn.py> - reused/modified from Fawaz et al 2019
 
 - <utils.py> - reused from Fawaz et al 2019
 
