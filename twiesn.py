@@ -1,4 +1,12 @@
 # model twi-esn 
+
+#################################
+# Based on the code provided by Fawaz et al related to their 2019 paper.
+# https://link.springer.com/article/10.1007/s10618-019-00619-1
+# https://github.com/hfawaz/dl-4-tsc
+#################################
+
+
 import numpy as np
 from scipy import sparse
 from scipy.sparse import linalg as slinalg
